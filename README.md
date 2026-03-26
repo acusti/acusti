@@ -1,6 +1,5 @@
-[![acusti’s github stats](https://github-readme-stats-theta-rouge.vercel.app/api?username=acusti&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![top languages](https://github-readme-stats-theta-rouge.vercel.app/api/top-langs/?username=acusti&layout=donut&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme.andrew-ab6.workers.dev/api?username=<your-username>&theme=tokyonight)
+![Top Langs](https://github-readme.andrew-ab6.workers.dev/api/top-langs?username=<your-username>&layout=compact&theme=tokyonight)
 
 <!--
 **acusti/acusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
