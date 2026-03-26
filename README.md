@@ -1,5 +1,5 @@
-![GitHub Stats](https://github-readme.andrew-ab6.workers.dev/api?username=<your-username>&theme=tokyonight)
-![Top Langs](https://github-readme.andrew-ab6.workers.dev/api/top-langs?username=<your-username>&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme.andrew-ab6.workers.dev/api?username=acusti&theme=tokyonight)
+![Top Langs](https://github-readme.andrew-ab6.workers.dev/api/top-langs?username=acusti&layout=compact&theme=tokyonight)
 
 <!--
 **acusti/acusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
